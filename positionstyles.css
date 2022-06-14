@@ -1,0 +1,38 @@
+.titlePosi{
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    height: 100px;
+}
+
+.navPosi{
+    top:140px;
+    left: 10px;
+    bottom:100px;
+    width:150px;
+}
+
+.conPosi{
+    position: absolute;
+    top:140px;
+    left: 10px;
+    bottom:100px;
+    right: 10px;
+}
+
+.imagePosi{
+    top: 140px;
+    bottom: 100px;
+    right: 10px;
+    width: 340px;
+}
+
+.ftPosi{
+    position: absolute;
+    background-color: black;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+    height: 60px;
+}
